@@ -8,4 +8,4 @@ def alphabetize(arr)
   end
 end
 
-"pacon", "mi amas vin", "bonan matenon", "ĉu vi parolas es"
+# "pacon", "mi amas vin", "bonan matenon", "ĉu vi parolas es"
