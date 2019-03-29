@@ -7,6 +7,3 @@ def alphabetize(arr)
     end
   end
 end
-
-# "pacon", "mi amas vin", "bonan matenon", "ĉu vi parolas es"
-[[p,a,c,o,n],[m,i,a,m,a,s,v,i,n]]
